@@ -6,5 +6,5 @@ target 'CocaoPodProject' do
   use_frameworks!
 
   # Pods for CocaoPodProject
-
+  pod 'JTAppleCalendar', '~> 7.0'
 end
