@@ -1,0 +1,15 @@
+PODS:
+  - JTAppleCalendar (7.0.4)
+  - UINotifications (1.0.0)
+
+DEPENDENCIES:
+  - JTAppleCalendar (~> 7.0)
+  - UINotifications (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  JTAppleCalendar: 6def48ecd0daae1d5baaa45e813124c2a20b184d
+  UINotifications: a1fa2442c37ea2d249e079dc36ded4e95ebb059f
+
+PODFILE CHECKSUM: 55dd17ae0866b864dd5d035052b000cd6f2546fc
+
+COCOAPODS: 1.2.1
